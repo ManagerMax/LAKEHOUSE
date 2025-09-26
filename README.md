@@ -121,7 +121,8 @@ Iceberg из коробки поддерживает очистку неакту
 
 ## Архитектурная схема
 
-<img width="1620" height="1253" alt="image" src="https://github.com/user-attachments/assets/af491c3d-d0f4-40d2-a76d-cb64881ccc14" />
+<img width="1036" height="1083" alt="image" src="https://github.com/user-attachments/assets/e82e03ee-475e-4734-825a-0051055c98fc" />
+
 
 ---
 
